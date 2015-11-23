@@ -1,0 +1,22 @@
+{
+  "name": "nativescript-netcipher",
+  "version": "0.0.1",
+  "main" : "netcipher.js",
+  "nativescript": {
+    "platforms": {
+      "android": "1.4.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iilab/nativescript-netcipher.git"
+  },
+  "keywords": [
+    "NativeScript",
+    "NetCipher"
+  ],
+  "bugs": {
+    "url": "https://github.com/iilab/nativescript-netcipher/issues"
+  },
+  "homepage": "https://github.com/iilab/nativescript-netcipher"
+}
